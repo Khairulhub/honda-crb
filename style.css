@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bike{
+    width: 288px;
+    height: 243px;
+}
+.img-scale{
+    filter: grayscale(100%);
+}
+/* normal utilities */
+.font-size{
+    font-weight: 600;
+font-size: 48px;
+}
+
+
+hr{
+    width: 58.5px;
+}
+
+
+.img{
+    height: 149px;
+    width: 149px;
+}
+.img-size{
+    width: 288px;
+height: 423.5px;
+}
+/* all-color-add------ */
+.bg-head{
+    background: #264653;
+}
+.btn-color {
+    background: #E76F51;
+    color: #fff;
+}
+.border-color {
+    border-color: #E76F51 !important;
+}
+.text-color,.fas,.far{
+    color: #E76F51;
+}
+.color-1{
+    color: #23A6F0;
+    font-size: 14px;
+}
+
+
