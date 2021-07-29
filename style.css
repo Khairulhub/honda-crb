@@ -28,7 +28,7 @@ hr{
                                                     /* Frequently Asked */
 .img-size{
     width: 288px;
-height: 423.5px;
+height: 423.5px;                     /* pic coto hoye jay tai bad diye dici */
 }
 /* all-color-add------ */
 .bg-head{
@@ -49,4 +49,7 @@ height: 423.5px;
     font-size: 14px;
 }
 
-
+.font-width{
+    font-weight: 600;
+    color: #0D0925;
+}
