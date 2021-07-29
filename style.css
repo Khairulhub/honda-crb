@@ -1,49 +1,51 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+                                               /* header part a img part-------- */
 .bike{
     width: 288px;
     height: 243px;
 }
-.img-scale{
-    filter: grayscale(100%);
-}
-/* normal utilities */
-.font-size{
-    font-weight: 600;
-font-size: 48px;
-}
 
+
+                                                 /*Fetured Bikes 2021*/
 
 hr{
     width: 58.5px;
 }
 
+.img-scale{
+    filter: grayscale(100%);
+}
+                                                       /* normal utilities */
 
-.img{
+
+                                                   /* Happy Clients says start  */
+.image{
     height: 149px;
     width: 149px;
 }
+                                                    /* Frequently Asked */
 .img-size{
     width: 288px;
 height: 423.5px;
 }
 /* all-color-add------ */
 .bg-head{
-    background: #264653;
+    background: #264653;   /*header backgroud------ */
 }
 .btn-color {
-    background: #E76F51;
+    background: #E76F51;  /* button color------ */
     color: #fff;
 }
 .border-color {
-    border-color: #E76F51 !important;
+    border-color: #E76F51 !important;           /* icon border and button border color */
 }
 .text-color,.fas,.far{
-    color: #E76F51;
+    color: #E76F51;       /* star icon and text color */
 }
 .color-1{
-    color: #23A6F0;
+    color: #23A6F0;      /*  Latest News part p tag color */
     font-size: 14px;
 }
 
